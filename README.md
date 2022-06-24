@@ -4,6 +4,6 @@
 Where it integrates all the services that programmers need in one platform.
 
 ### Used Software
-> Frontend: Bootstarp Framework, HTML5, CSS, JavaScript, and PHP.<br />
-Backend: AppServ (web server app), Composer, and phpMyAdmin.<br />
+> Frontend: Bootstarp Framework, HTML5, CSS, and JavaScript.<br />
+Backend: PHP, AppServ (web server app), Composer, and phpMyAdmin.<br />
 Editor: Visual Studio Code.
