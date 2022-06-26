@@ -34,7 +34,6 @@
           <li><a class="nav-link scrollto active" href="#hero">الرئيسية</a></li>
           <li><a class="nav-link scrollto" href="#details">عن المنصة</a></li>
           <li><a class="nav-link scrollto" href="#features">خدماتنا</a></li>
-          <li><a class="nav-link scrollto" href="#team">فريقنا</a></li>
           <li><a class="nav-link scrollto" href="#contact">تواصل معنا</a></li>
           
           <div class="left"></div>
